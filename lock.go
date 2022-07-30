@@ -1,4 +1,4 @@
-package main
+package redislocker
 
 var _ Locker = (*Lock)(nil)
 

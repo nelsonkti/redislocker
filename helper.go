@@ -1,4 +1,4 @@
-package main
+package redislocker
 
 import (
 	"crypto/md5"
